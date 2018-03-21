@@ -1,0 +1,15 @@
+D:\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
+D:\StockMarket\StockMarket\bin\Debug\StockMarket.exe
+D:\StockMarket\StockMarket\bin\Debug\StockMarket.pdb
+D:\StockMarket\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+D:\StockMarket\StockMarket\obj\Debug\StockMarket.bidOrder.resources
+D:\StockMarket\StockMarket\obj\Debug\StockMarket.Properties.Resources.resources
+D:\StockMarket\StockMarket\obj\Debug\StockMarket.sellingOrder.resources
+D:\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.Cache
+D:\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+D:\StockMarket\StockMarket\obj\Debug\StockMarket.exe
+D:\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+D:\StockMarket\StockMarket\obj\Debug\StockMarket.stockStateSummary.resources
+D:\StockMarket\StockMarket\obj\Debug\StockMarket.marketByOrder.resources
+D:\StockMarket\StockMarket\obj\Debug\StockMarket.marketByPrice.resources
+D:\StockMarket\StockMarket\obj\Debug\StockMarket.StockSecurityExchange.resources
